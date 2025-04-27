@@ -2,5 +2,5 @@
 
 This repository contains horror-themed YouTube thumbnail samples for Dream Success faceless horror channels.
 
-✅ Thumbnails inside `mages/`.  
+✅ Thumbnails inside `images/`.  
 ✅ Live demo powered by GitHub Pages.
