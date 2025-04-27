@@ -1,3 +1,7 @@
+<script>
+document.addEventListener('contextmenu', event => event.preventDefault());
+</script>
+
 <p align="center">
   <img src="cover.png" width="100%" alt="Horror Thumbnail Samples Cover">
 </p>
